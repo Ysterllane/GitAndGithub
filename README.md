@@ -15,5 +15,5 @@ Adicionar todas as mudanças de uma vez:
 Commit: registrar uma mudança no código
 <code>git commit -m "Alteração"</code>
 
-Identificar quais commits foram realizados no projeto, quem fez, respectivas datas, servindo como um histórico:
+Identificar commits anteriores, autor, respectivas datas, servindo como um histórico:
 <code>git log</code>
