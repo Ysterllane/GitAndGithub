@@ -6,6 +6,8 @@ Comando para clonar um repositório: arquivo + histórico
 Quais arquivos e repositórios foram alerados
 <code>git status</code>
 
+Adicionar ao commit:
 <code>git add .</code>
 
+Commitar : realizar uma mudança
 <code>git commit -m "Alteração"</code>
